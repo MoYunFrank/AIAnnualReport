@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-serif-title {
+    font-family: 'Noto Serif SC', 'Playfair Display', Georgia, Cambria, serif;
+  }
+}
+
+body {
+  background-color: #F8F9FA;
+  color: #1A1A1A;
+}
+
+/* Custom scrollbars for clean editorial look */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #E9ECEF;
+}
+::-webkit-scrollbar-thumb {
+  background: #1A1A1A;
+}

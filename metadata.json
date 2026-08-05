@@ -1,0 +1,6 @@
+{
+  "name": "公司治理与证券事务 AI 数字员工",
+  "description": "聚焦公司治理与证券事务的 AI 数字员工服务方案，包含高频公告生成、投资者关系(IR)智能问答、跨部门协同与分阶段落地规划。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
